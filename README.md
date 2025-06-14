@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
+This project is a practice for some data modelling and acive record knowlege by building a light weight Reddit clone.
 application up and running.
 
-Things you may want to cover:
+It covers:
 
-* Ruby version
+* Active record models
 
-* System dependencies
+* Associations between models
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Validation of records
 
 * ...

@@ -1,7 +1,6 @@
 # README
 
-This project is a practice for some data modelling and acive record knowlege by building a light weight Reddit clone.
-application up and running.
+This project is a practice for some data modelling and acive record knowledge by building a light weight Reddit clone.
 
 It covers:
 
